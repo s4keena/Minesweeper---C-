@@ -25,4 +25,4 @@ private:
     void calculateAdjacentMines();
 };
 
-#endif // MINESWEEPER_H
+#endif
